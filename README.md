@@ -1,4 +1,4 @@
-# Weather Sprint
+# Say Hello - Endpoint
 
 ### Gianpaolo Reinares
 ### 1/6/2024
