@@ -1,3 +1,5 @@
+// dotnet new webapi & dotnet watch run <- Important; Copy for every project for now on
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,7 +17,7 @@ namespace Say_Hello_Endpoint.Controllers
         [Route("AddName/{nameToAdd}")]
         public List<string> AddNameToList(string nameToAdd){
             nameList.Add(nameToAdd);
-            return nameList;
+            return "Hello, " + nameList;
         }
     }
 }
