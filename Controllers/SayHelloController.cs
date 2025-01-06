@@ -16,8 +16,8 @@ namespace Say_Hello_Endpoint.Controllers
         [HttpPost]
         [Route("AddName/{nameToAdd}")]
         public List<string> AddNameToList(string nameToAdd){
-            nameList.Add(nameToAdd);
-            return "Hello, " + nameList;
+            nameList.Add("Hello, " + nameToAdd + "! It is nice to meet you!");
+            return nameList;
         }
     }
 }
