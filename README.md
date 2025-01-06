@@ -15,5 +15,5 @@
 ### Say Hello - Endpoint_GitHub Repository Link:_
 [Weather Sprint GitHub Repository Link](https://github.com/MandoxaElemental/Say-Hello-Endpoint.git)
 
-This has been Peer Reviewed By: 
-> Comments: 
+This has been Peer Reviewed By: Brock Spacek
+> Comments: Excellant Job, everything works as intended for the user input and the greeting.
