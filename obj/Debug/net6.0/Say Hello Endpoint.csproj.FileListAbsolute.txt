@@ -1,0 +1,27 @@
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/bin/Debug/net6.0/appsettings.Development.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/bin/Debug/net6.0/appsettings.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/bin/Debug/net6.0/Say Hello Endpoint
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/bin/Debug/net6.0/Say Hello Endpoint.deps.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/bin/Debug/net6.0/Say Hello Endpoint.runtimeconfig.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/bin/Debug/net6.0/Say Hello Endpoint.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/bin/Debug/net6.0/Say Hello Endpoint.pdb
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/Say Hello Endpoint.csproj.AssemblyReference.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/Say Hello Endpoint.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/Say Hello Endpoint.AssemblyInfoInputs.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/Say Hello Endpoint.AssemblyInfo.cs
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/Say Hello Endpoint.csproj.CoreCompileInputs.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/Say Hello Endpoint.MvcApplicationPartsAssemblyInfo.cs
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/Say Hello Endpoint.MvcApplicationPartsAssemblyInfo.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/staticwebassets.build.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/staticwebassets.development.json
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/scopedcss/bundle/Say Hello Endpoint.styles.css
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/Say Hello Endpoint.csproj.CopyComplete
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/Say Hello Endpoint.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/refint/Say Hello Endpoint.dll
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/Say Hello Endpoint.pdb
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/Say Hello Endpoint.genruntimeconfig.cache
+/Users/user/Documents/CodeStack/Combine/Level 2/Week 1/Say Hello Endpoint/obj/Debug/net6.0/ref/Say Hello Endpoint.dll

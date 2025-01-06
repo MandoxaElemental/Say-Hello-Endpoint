@@ -15,7 +15,7 @@ namespace Say_Hello_Endpoint.Controllers
         [Route("AddName/{nameToAdd}")]
         public List<string> AddNameToList(string nameToAdd){
             nameList.Add(nameToAdd);
-            return 
+            return nameList;
         }
     }
 }
